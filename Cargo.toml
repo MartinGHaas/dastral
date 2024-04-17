@@ -2,6 +2,10 @@
 name = "dastral"
 version = "0.1.0"
 edition = "2021"
+description = """
+Reduce boilerplate code, learn data structures & algorithms
+with Dastral.
+"""
 license = "MIT"
 readme = "README.md"
 keywords = ["data-structures", "algorithms", "rust-patterns"]
